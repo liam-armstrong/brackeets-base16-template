@@ -1,0 +1,7 @@
+default: 
+    extension: .less
+    output: themes
+    
+json:
+    extension: .json
+    output: themes
